@@ -68,3 +68,4 @@ So we hold all of our data in one place.  When we want to update it, we send an 
 * [Looking back at Redux - Dan Abramov](https://www.youtube.com/watch?v=uvAXVMwHJXU)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/why-redux'>Why Redux</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Why Redux?</p>
